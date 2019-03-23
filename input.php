@@ -21,7 +21,6 @@
             
             <label for="lastname">Last Name :</label>
             <input class="form-control" type="text" name="lastname" id="lastname">
-            <!-- <input type="hidden" name="lastupdate" value="<?= date('Y h:i:s') ?>"> -->
 
         </div>
 
